@@ -51,6 +51,9 @@
   transition: all .09s ease;
 }
 
+.btn-filter:first-of-type {
+  border-radius: 0;
+}
 .btn-filter:hover {
   transform: scale(1.02);
 }
